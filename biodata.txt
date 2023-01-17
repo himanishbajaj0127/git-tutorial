@@ -1,4 +1,8 @@
-hobbies 
-carrom
-football
-cricket
+hobbies :
+cooking
+gym
+travel
+reading
+
+goals :
+
